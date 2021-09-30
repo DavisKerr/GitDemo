@@ -4,4 +4,9 @@ git add . - add all files.
 git status - Check status
 git commit -m "Initial Commit"
 git log - Show commit history. 
+git branch <branch name> - create a new branch
+git branch - Check what branches exist (* shows what branch you are in.)
+git checkout <branchname> - open a new branch
+
+
 
