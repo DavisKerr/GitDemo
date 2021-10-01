@@ -11,6 +11,7 @@ git merge <branch> - Must be in master, and merges the branch with master.
 git config --global user.email "email@email.com" - Change email
 git config --global user.email - Check email.
 git config --global user.name - Check name (add a name in quotes at the end to change it.)
+git branch -M main - change the branch name to main so github can use it. 
 
 
 
