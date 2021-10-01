@@ -8,6 +8,9 @@ git branch <branch name> - create a new branch
 git branch - Check what branches exist (* shows what branch you are in.)
 git checkout <branchname> - open a new branch
 git merge <branch> - Must be in master, and merges the branch with master.
+git config --global user.email "email@email.com" - Change email
+git config --global user.email - Check email.
+git config --global user.name - Check name (add a name in quotes at the end to change it.)
 
 
 
